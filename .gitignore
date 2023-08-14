@@ -1,0 +1,10 @@
+# Ignorar archivos .log
+*.log
+
+# Ignore 
+output/
+models/
+venvjl/
+# Ignorar archivos .tmp
+*.tmp
+*.csv
