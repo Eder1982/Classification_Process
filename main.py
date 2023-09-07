@@ -2,6 +2,7 @@ from data_base import Data_Base
 from NeuronalNetwork import RedNeuronal
 
 def main():
+    #CREANDO NUEVO CÓDIGO POR EDER
     rut1 = 'dataset.csv'
     db=Data_Base()
     df=db.Read_csv_dataset(rut1) # Convierte el file en dataframe
